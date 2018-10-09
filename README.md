@@ -1,4 +1,2 @@
 # hello
-xRSP, vzor
-přidám řádek
-... a další
+xRSP, vzor 2 s odstraněnými řádky
